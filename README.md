@@ -1,4 +1,4 @@
-<img width="383" height="77" alt="image" src="https://github.com/user-attachments/assets/40f180d8-df18-48cf-87ed-35c3187fdfa5" />﻿# brain_tumor_model
+﻿# brain_tumor_model
 the python file is BCD.py
 
 the Index file is inside the templates
@@ -8,3 +8,4 @@ you can download the Ai model here : https://drive.google.com/file/d/1TCSmxk0rNT
 Image Dataset : https://drive.google.com/drive/folders/1Fun1W8B_zT3esjgjiJInSrzRB9WygsB8?usp=sharing
 
 download the Ai model and integrate it in the folder you are working on
+
